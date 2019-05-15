@@ -1,0 +1,37 @@
+Ideal capacity:	6137mA
+Skipped groups:	9
+Time: 0ms
+			Diff to ideal	Cells
+Group 1:	1				1815	2169	2152	
+Group 2:	37				2133	1822	2145	
+Group 3:	38				2098	2090	1987	
+
+Ideal capacity:	7861mA
+Skipped groups:	63
+Time: 0ms
+			Diff to ideal	Cells
+Group 1:	0				2050	1809	2101	1901	
+Group 2:	0				1805	1991	1879	2186	
+Group 3:	8				1824	1829	2025	2175	
+Group 4:	11				2101	2018	1860	1893	
+
+Ideal capacity:	10161mA
+Skipped groups:	609
+Time: 109ms
+			Diff to ideal	Cells
+Group 1:	0				2111	1928	2027	1977	2118	
+Group 2:	0				1881	2199	1888	2049	2144	
+Group 3:	0				2130	1897	2167	2051	1916	
+Group 4:	1				1842	2180	2153	2120	1867	
+Group 5:	3				2191	1982	1982	1936	2073	
+
+Ideal capacity:	12173mA
+Skipped groups:	8731
+Time: 18421ms
+			Diff to ideal	Cells
+Group 1:	0				2131	1946	2178	1905	2105	1908	
+Group 2:	0				2118	1934	2014	1985	2147	1975	
+Group 3:	0				1814	1931	2098	2109	2162	2059	
+Group 4:	0				1810	2139	1963	1962	2123	2176	
+Group 5:	0				1836	2015	1994	2117	2139	2072	
+Group 6:	1				1835	2182	1888	2153	2084	2032
